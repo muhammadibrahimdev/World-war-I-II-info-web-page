@@ -1,0 +1,19 @@
+*{box-sizing:border-box}
+body{margin:0;background:#9a9c9b;color:#26282a;font-family:"Segoe UI",Helvetica,Arial,sans-serif;line-height:1.65}
+header{background:#4d5348;color:#ecebe4;padding:28px 40px 20px;text-align:left}
+header h1{margin:0;font-size:40px;letter-spacing:1px}
+header p{margin:6px 0 0;font-size:18px;color:#c4c6b8}
+nav{background:#33363a;display:flex;flex-wrap:wrap;justify-content:flex-start;gap:4px;padding:8px 32px}
+nav a{color:#d3d1c5;text-decoration:none;font-size:16px;padding:8px 12px;border-radius:4px}
+nav a:hover{background:#5b6156;color:#fff}
+main{width:100%;max-width:none;margin:0;background:#e1dfd6;padding:36px 48px;border-radius:0;font-size:20px;box-shadow:0 2px 8px rgba(0,0,0,.35)}
+h2{margin-top:0;font-size:36px;color:#3a3f36;border-left:6px solid #5d6455;padding-left:12px}
+h3{font-size:26px;color:#48494b}
+img{width:100%;max-width:900px;display:block;margin:20px 0 4px;border-radius:4px;box-shadow:0 1px 5px rgba(0,0,0,.4);background:#c3c1b6;min-height:60px}
+.cap{text-align:left;font-size:16px;color:#4a4c4e;font-style:italic;margin-bottom:18px}
+.box{background:#cfd1c7;border-left:5px solid #48494b;padding:14px 20px;margin:20px 0}
+.next{margin-top:26px;text-align:right}
+.next a{background:#4d5348;color:#fff;padding:10px 20px;border-radius:4px;text-decoration:none;font-size:18px}
+.next a:hover{background:#33363a}
+footer{text-align:left;font-size:16px;padding-left:48px!important;color:#2b2d2f;padding:18px}
+a{color:#34502f}
